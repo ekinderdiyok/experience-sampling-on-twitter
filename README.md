@@ -1,9 +1,6 @@
 # Experience Sampling Twitter Users' Motives
 
-This repository hosts my internship report. This IPYNB script is part of my internship project. This project involves analyzing tweets to understand the impact of different sentiments on engagement and the differences in tweet motives across various tweet types.
-
-## About
-**Description:** 
+This repository hosts my internship project. The project involves analyzing tweets to understand the impact of different sentiments on engagement and the differences in tweet motives across various tweet types.
 
 ## Data
 Data are not available because of data sharing restrictions.
